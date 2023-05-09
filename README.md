@@ -4,7 +4,19 @@ Basado en [20211025_Custom_Object_Detection_using_PyTorch_Faster_RCNN](https://d
 ### Dataset Microcontroller
 [Microcontroller Detection - Kaggle](https://www.kaggle.com/datasets/tannergi/microcontroller-detection)
 
+## Descarga
+```
+git clone https://github.com/scativa/Custom-Object-Detection-using-PyTorch-Faster-RCNN
+```
+## Entorno
+```
+conda create --name object_detection python=3.10.11
+```
 
+```
+pip install --upgrade pip
+pip install -r requirements.txt
+```
 
 ## Notas
 
