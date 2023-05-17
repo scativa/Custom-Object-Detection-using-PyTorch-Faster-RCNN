@@ -1,5 +1,9 @@
 # Custom-Object-Detection-using-PyTorch-Faster-RCNN
-Basado en [20211025_Custom_Object_Detection_using_PyTorch_Faster_RCNN](https://debuggercafe.com/custom-object-detection-using-pytorch-faster-rcnn/)
+
+Código usado para el testeo y reproducción de la implementación de [20211025_Custom_Object_Detection_using_PyTorch_Faster_RCNN](https://debuggercafe.com/custom-object-detection-using-pytorch-faster-rcnn/)
+No se realizan modificaciones sustanciales ni adaptaciones para otros problemas. Esos desarrollos se encuentran en [object_detection_COD - github](https://github.com/scativa/object_detection_COD)
+
+Se pudo reproducir la la generación de modelos con 
 
 ### Dataset Microcontroller
 [Microcontroller Detection - Kaggle](https://www.kaggle.com/datasets/tannergi/microcontroller-detection)
@@ -7,15 +11,6 @@ Basado en [20211025_Custom_Object_Detection_using_PyTorch_Faster_RCNN](https://d
 ## Descarga
 ```
 git clone https://github.com/scativa/Custom-Object-Detection-using-PyTorch-Faster-RCNN
-```
-## Entorno
-```
-conda create --name object_detection python=3.10.11
-```
-
-```
-pip install --upgrade pip
-pip install -r requirements.txt
 ```
 
 ## Notas
