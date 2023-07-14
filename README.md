@@ -26,6 +26,10 @@ git clone https://github.com/scativa/Custom-Object-Detection-using-PyTorch-Faste
 
 [Algoritmos de machine learning](https://chat.openai.com/c/f433f02e-daf3-4637-8a27-49308a5fb1e3)
 
+[pytorch/vision - GitHub](https://github.com/pytorch/vision/tree/main/references/detection)
+
+
+
 ### Web
 [Custom Object Detection using PyTorch Faster RCNN](https://debuggercafe.com/custom-object-detection-using-pytorch-faster-rcnn/)
 
